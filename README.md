@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nishant Gupta</h1>
 <h3 align="center">A Passionate Android Developer From India</h3>
-<img align="right" alt="Coding" width="500"src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
+<img align="right" alt="Coding" width="500"src="https://cdn.dribbble.com/users/720555/screenshots/4029449/media/85de076750f5c2b277bae4a265e85610.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunnygupta7&label=Profile%20views&color=0e75b6&style=flat" alt="hunnygupta7" /> </p>
 
